@@ -8,3 +8,4 @@ class A {
 	int var2; // 내부패키지에서만 사용가능 
 	private int var3; // 선언한(A) 클래스 내에서만 사용 가능
 }
+// private < default < public
